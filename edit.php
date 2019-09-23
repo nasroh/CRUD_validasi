@@ -95,9 +95,6 @@
 
         </div>
 
-    <?php 
-        include 'footer.php';
-    ?>
 
     <script language="javascript">
         $.validator.addMethod("alpha", function(value, element){
